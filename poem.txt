@@ -4,3 +4,8 @@ Red
 Blue
 Green
 Yellow
+
+Animals:
+
+Dog
+Cat
