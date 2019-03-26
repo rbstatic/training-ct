@@ -6,3 +6,8 @@ Green
 Yellow
 Purple
 Pink
+
+Animals:
+
+Dog
+Cat
